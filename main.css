@@ -207,10 +207,6 @@ nav ul li a:hover::after{
 .col-4 a:hover img{
     transform: scale(1.2);
 }
-#contact{
-    padding: 30px;
-    color: #ababab;
-}
 #portofolio{
     padding: 50px 0;
 }
